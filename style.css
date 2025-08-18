@@ -1,0 +1,79 @@
+/* 
+ultramarine blue #4166f5 
+carmine red #ff0038 
+indian yellow #E3A857
+verdigris #43B3AE
+prussian blue #003153
+mummy brown #824b27
+cobalt blue #0047AB
+naples yellow #FADA5E
+cadmium red #E30022
+lead white #Dcdbd6
+*/
+
+html {
+    border: #824b27 solid 20px;
+
+}
+
+body {
+    max-width: 100vw;
+    background: #dcdbd6;
+    color: #dcdbd6;
+}
+
+h1 {
+    display: block;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: 3rem;
+    background-color: #43B3AE;
+    border: #003153 solid 3px;
+}
+
+h2 {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 15px;
+    width: fit-content;
+    text-align: center;
+    font-size: 2rem;
+    background-color: #43B3AE;
+    border: #003153 solid 3px;
+}
+
+ul {
+    /* border: black dashed 1px; */
+    padding: 0;
+}
+
+/* li {
+    border: black dashed 1px;
+    } */
+
+.introP {
+    display: block;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    width: 75%;
+    font-size: 1.5rem; 
+    background-color: #43B3AE;
+    border: #003153 solid 3px; 
+}
+    
+.genNav {
+    position: left;
+    border: #003153 solid 3px;
+    width: 6rem;
+    font-size: 1.25rem;
+    padding: 5px;
+}
+
+.styleLink {
+    position: bottom;
+}

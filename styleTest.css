@@ -1,0 +1,71 @@
+html {
+    background-color: #898e8c;
+}
+
+p {
+    width: 30vw;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: auto;
+}
+
+.ultramarineBlue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #4166f5;
+}
+
+.carmineRed {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #ff0038;
+}
+
+.indianYellow{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #e3a857;
+}
+
+.verdigris {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #43b3ae;
+}
+
+.prussianBlue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #003153;
+}
+
+.mummyBrown {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #824b27;
+}
+
+.cobaltBlue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #0047ab;
+}
+
+.naplesYellow {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #fada5e;
+}
+
+.cadmiumRed {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #e30022;
+}
+
+.leadWhite {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dcdbd6;
+}
